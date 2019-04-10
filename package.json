@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colinskow/rx-ipc-electron.git"
+    "url": "git+https://github.com/ddanninger/rx-ipc-electron.git"
   },
   "keywords": [
     "Electron",
@@ -28,9 +28,9 @@
   "author": "Colin Skow <colinskow@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colinskow/rx-ipc-electron/issues"
+    "url": "https://github.com/ddanninger/rx-ipc-electron/issues"
   },
-  "homepage": "https://github.com/colinskow/rx-ipc-electron",
+  "homepage": "https://github.com/ddanninger/rx-ipc-electron",
   "dependencies": {
     "rxjs": "^6.2.0"
   },
